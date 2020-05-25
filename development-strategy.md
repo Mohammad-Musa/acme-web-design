@@ -1,10 +1,8 @@
 # Development Strategy
 
-> `name-of-project`
+> ### `acme-web-design`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- This project was built for the purpose of learning about `git branching`, `html` and `css`.
 
 ## Wireframe
 
