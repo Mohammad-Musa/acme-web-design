@@ -10,7 +10,8 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://user-images.githubusercontent.com/59515791/82772089-694c7200-9e3e-11ea-8238-6973fa5ec9a2.png)
+
 
 ## 0. Set-Up
 
