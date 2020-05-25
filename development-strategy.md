@@ -99,7 +99,7 @@ __As a site visitor I want to check if there is a way to receive information and
 - Style the section tag.
   - `newsletter-styling` branch.
 
-  ## 5. Activities
+## 5. Activities
 
 __As a site visitor I want to read a brief about the activities this page could offer__.
 
@@ -116,7 +116,7 @@ __As a site visitor I want to read a brief about the activities this page could 
 - Style the section tag.
   - `boxes-styling` branch.
 
-  ## 6. Copyrights and Creation date
+## 6. Copyrights and Creation date
 
 __As a site visitor I want to see the copyrights and the creation date__.
 
@@ -133,8 +133,7 @@ __As a site visitor I want to see the copyrights and the creation date__.
 ### CSS
 - Style the footer tag.
   - `footer-styling` branch.
-
-  ## 7. About
+## 7. About
 
 __As a site visitor I want to have more details about this site__.
 
